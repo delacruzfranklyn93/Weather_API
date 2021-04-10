@@ -1,4 +1,4 @@
-## Weather_API
+# Weather_API
 
 ## How does the weather change across different Latitudes?
 
