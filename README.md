@@ -18,7 +18,8 @@ To the answer the questions above I collected data from over 500 different citie
 I filtered the data from the previous dataset using what I believe to be the ideal weather conditions for vacation. Using Google APIs, I then retrieved the nearest hotel in the cities that I retrieved from the filtered data set. I then created info boxes for the hotel information and plotted the result on a heatmap. Below you can see the results.
  
  
-![image](https://user-images.githubusercontent.com/63375741/114286544-b244ef00-9a2d-11eb-9ec0-f1f2b2bd6d59.png)
+   ![image](https://user-images.githubusercontent.com/63375741/114286565-e91b0500-9a2d-11eb-82c1-ca45c17d31ae.png)
+
 
 
 
