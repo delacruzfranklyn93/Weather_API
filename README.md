@@ -11,10 +11,9 @@
 2) The scatter plot with the least amount of correlation is the "Northern Hemisphere - Wind Speed (mph) vs. Latitude" with a correlation coefficient of roughly .11. All these comparisons did not have much correlation besides the correlation between the max temperature and latitude.
 3) The only linear regression model that fits the data somewhat well is the "Northern Hemisphere - Max Temp vs. Latitude Linear Regression model". The R-squared returned a number around .73 which is close to 1 and shows that it tracks the movement of the data quite well. The same comparison for the southern hemisphere did not give that great of results but I believe it is because there was less data used in the modeling and correlation analysis.
 
-#What would be the top 10 cities to visit based off my ideal weather conditions?
+# What would be the top 10 cities to visit based off my ideal weather conditions?
 
 # Summary: I filtered the data from the previous dataset using what I believe to be the ideal weather conditions for vacation. Using Google APIs, I then retrieved the nearest hotel in the cities that I retrieved from the filtered data set. I then created info boxes for the hotel information and plotted the result on a heatmap. Below you can see the results.
-
  
 
 
